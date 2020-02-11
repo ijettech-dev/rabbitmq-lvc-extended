@@ -1,0 +1,13 @@
+.sw?
+.*.sw?
+*.beam
+/.erlang.mk/
+/cover/
+/deps/
+/doc/
+/ebin/
+/logs/
+/plugins/
+/.idea/
+
+/rabbitmq_lvc_*.d
